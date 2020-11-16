@@ -2,7 +2,7 @@
 
 ### Kali Linux in Windows with Docker
 
-This tool was created to solve a problem, using Kali Linus directly from Windows with the help of Docker containers. (the principle was if it has a GUI probably exists a windows version for it) 
+This tool was created to solve a problem, using Kali Linus directly from Windows with the help of Docker containers.
 
 The application has two interfaces.
 
